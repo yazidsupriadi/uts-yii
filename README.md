@@ -1,4 +1,4 @@
-# UAS PWL
+# UTS PWL
 
 Project ini digunakan untuk pengumpulan jawaban UTS Pemrograman Web Lanjutan.
 
@@ -35,6 +35,6 @@ git checkout -b 0110217069_huda
 ### Buat Database & Import
 
 - Buatlah database **dbkepegawaian** pada phpMyAdmin
-- Lakukan import file **dbkepegawaian.sql** yang ada pada project ini ke database dbkepegawaian
+- Lakukan import file [**dbkepegawaian.sql**](https://gitlab.com/web-lanjut-sttnf-20182-ti2/uts/blob/master/dbkepegawaian.sql) yang ada pada project ini ke database dbkepegawaian
 
 Tahapan selesai, silahkan kerjakan soalnya.
