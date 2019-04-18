@@ -4,7 +4,7 @@ Project ini digunakan untuk pengumpulan jawaban UTS Pemrograman Web Lanjutan.
 
 ## Aturan Ujian
 
-- Batas waktu pengumpulan (push commit) ujian sampai dengan **22 April 2019 11:15**
+- Batas waktu pengumpulan (push commit) jawaban ujian sampai dengan **22 April 2019 11:15**
 
 - Dilarang keras melakukan copy paste pekerjaan teman
 
